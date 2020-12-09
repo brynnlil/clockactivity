@@ -1,0 +1,39 @@
+.clockminutes {
+  height: 200px;
+  width: 200px;
+  border-radius: 0%;
+  margin-left: 40px;
+padding: 50px;
+background: linear-gradient(50deg, white, black);
+font-family: serif;
+text-align: center;
+}
+
+.clockhours {
+  height: 200px;
+  width: 200px;
+  border-radius: 0%;
+  margin-left: 40px;
+padding: 50px;
+background: linear-gradient(50deg, white, black);
+font-family: serif;
+text-align: center;
+}
+
+.clockseconds {
+ height: 200px;
+  width: 200px;
+  border-radius: 0%;
+  margin-left: 40px;
+padding: 50px;
+background: linear-gradient(50deg, white, black);
+font-family: serif;
+text-align: center;
+}
+
+.container{
+  left: 80vw;
+  top: 0vw;
+  position: absolute;
+}
+
